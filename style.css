@@ -127,7 +127,7 @@ a {
 }
 
 .header__content {
-  background-image: url('../images/Header-bg.jpg');
+  background-image: url('Header-bg.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -265,15 +265,15 @@ a {
 }
 
 .expertise__item--desigh::before {
-  background-image: url('../images/Shape.svg');
+  background-image: url('Shape.svg');
 }
 
 .expertise__item--dev::before {
-  background-image: url('../images/monitor.svg');
+  background-image: url('monitor.svg');
 }
 
 .expertise__item--marketing::before {
-  background-image: url('../images/speaker.svg');
+  background-image: url('speaker.svg');
 }
 
 .expertise__item-title {
@@ -292,7 +292,7 @@ a {
 
 .magic {
   background-color: #F6F8FA;
-  background-image: url('../images/magic.jpg');
+  background-image: url('magic.jpg');
   background-repeat: no-repeat;
   block-size: 50%;
   background-position: left 82%;
@@ -394,7 +394,7 @@ a {
 }
 
 .portfolio_video {
-  background-image: url('../images/portfolio/bg.jpg');
+  background-image: url('bg.jpg');
   height: 324px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -426,4 +426,5 @@ a {
   color: #333;
   display: block;
 }
+
 
